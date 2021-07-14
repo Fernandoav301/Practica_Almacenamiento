@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica_Almacenamiento</string>
+    <string name="Guardar">Guardar Registro</string>
+    <string name="Guardararch">Guardar en el archivo</string>
+    <string name="leerdatos">Leer datos del archivo</string>
+    <string name="iralmacenamiento">Ir al almacenamiento externo</string>
+    <string name="irbase">Ir a la base de datos</string>
+    <string name="Leer">Leer Registro</string>
+    <string name="Eliminar">Eliminar Registro</string>
+    <string name="Actualizar">Actualizar Registro</string>
+</resources>
